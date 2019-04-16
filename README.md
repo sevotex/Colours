@@ -1,2 +1,2 @@
 # Colours
-this is my new site.It contains colours and text.It's name is site.html
+this is my new site.It contains colours and text.Its name is site.html
